@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vineethpico
+- 👋 Hi, @vineeth here...
 - 👀 I’m interested in raspberry pi, pico, arduino, IOT, webservers and android
 - 🌱 I’m currently working with raspberry pi pico data logger using micropython.
 - 💞️ I’m looking to collaborate on pico projects
